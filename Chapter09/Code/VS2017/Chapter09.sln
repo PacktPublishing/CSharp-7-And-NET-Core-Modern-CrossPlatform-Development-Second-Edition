@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch09_LinqToObjects", "Ch09_LinqToObjects\Ch09_LinqToObjects.csproj", "{58180242-C2BF-4C81-9016-B1B5ACA47CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch09_Sets", "Ch09_Sets\Ch09_Sets.csproj", "{E397C67C-5DAB-4002-8D0D-78E6A2615FD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch09_Projection", "Ch09_Projection\Ch09_Projection.csproj", "{B8C0A7BE-3366-4DD2-96DB-2648299F4848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch09_PLINQ", "Ch09_PLINQ\Ch09_PLINQ.csproj", "{FEDB9408-8FE8-48F2-80D7-116F0296D490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58180242-C2BF-4C81-9016-B1B5ACA47CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58180242-C2BF-4C81-9016-B1B5ACA47CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58180242-C2BF-4C81-9016-B1B5ACA47CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58180242-C2BF-4C81-9016-B1B5ACA47CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E397C67C-5DAB-4002-8D0D-78E6A2615FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E397C67C-5DAB-4002-8D0D-78E6A2615FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E397C67C-5DAB-4002-8D0D-78E6A2615FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E397C67C-5DAB-4002-8D0D-78E6A2615FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C0A7BE-3366-4DD2-96DB-2648299F4848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C0A7BE-3366-4DD2-96DB-2648299F4848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C0A7BE-3366-4DD2-96DB-2648299F4848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C0A7BE-3366-4DD2-96DB-2648299F4848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDB9408-8FE8-48F2-80D7-116F0296D490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDB9408-8FE8-48F2-80D7-116F0296D490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDB9408-8FE8-48F2-80D7-116F0296D490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDB9408-8FE8-48F2-80D7-116F0296D490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
